@@ -3,6 +3,11 @@
 这是一个基于 ESP32-S3、8MB Flash、8MB OPI PSRAM 和 ST7789 TFT 的 GIF 播放器。
 设备开机后建立 WiFi AP，通过 Web 页面上传、管理和播放 GIF，也支持 OTA 更新固件。
 
+## 项目资料
+
+- 嘉立创开源硬件项目：[ESP32-S3 TFT GIF 播放器电路板](https://oshwhub.com/yinianlengfeng/project_ehqrgpks)
+- Bilibili 演示视频：[Web 上传 GIF 与播放演示](https://www.bilibili.com/video/BV1JVKt6fE7D/)
+
 ## 功能
 
 - ST7789 1.14 英寸 TFT 播放 GIF。
